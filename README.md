@@ -1,2 +1,2 @@
 # jarvis
-This project as originally made by a friend of mine.
+This project was originally made by a friend of mine.
